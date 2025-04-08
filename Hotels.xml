@@ -12,6 +12,7 @@
       <Zip>85281</Zip>
     </Address>
   </Hotel>
+  <Hotel Rating="4.5">
     <Name>Marriott</Name>
     <Phone>602-123-4567</Phone>
     <Address NearstAirport="JFK">
@@ -22,6 +23,7 @@
       <Zip>85004</Zip>
     </Address>
   </Hotel>
+  <Hotel Rating="4.0">
     <Name>Hilton</Name>
     <Phone>480-555-1234</Phone>
     <Phone>480-555-5678</Phone>
@@ -56,6 +58,7 @@
       <Zip>85016</Zip>
     </Address>
   </Hotel>
+  <Hotel Rating="4.0">
     <Name>Holiday Inn</Name>
     <Phone>480-777-8888</Phone>
     <Address NearstAirport="Sky Harbor">
