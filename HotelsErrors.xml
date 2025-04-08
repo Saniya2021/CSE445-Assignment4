@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Error 1: Root element is incorrectly named "Hotel" instead of "Hotels" -->
-<Hotels xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://www.public.asu.edu/~imehta4/Hotels.xsd">
+<Hotels xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://saniya2021.github.io/CSE445-Assignment4/Hotels.xsd">
 <Hotel>
   <!-- Hotel 1: Error 2 – Missing required "Rating" attribute -->
   <Hotel>
