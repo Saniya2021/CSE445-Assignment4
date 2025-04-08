@@ -35,6 +35,7 @@
       <City>Phoenix</City>
       <State>AZ</State>
       <Zip>85001</Zip>
+    </Address>
     <!-- Missing </Address> here -->
   </Hotel>
   <!-- Error 5: Two Name elements provided -->
