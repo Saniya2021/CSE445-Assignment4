@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Hotels xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://saniya2021.github.io/CSE445-Assignment4/Hotels.xsd">
   <Hotel Rating="4.2">
-    <Name>Westin</Name>
+    <Name>Remote Trinket Motel</Name>
     <Phone>800-937-8461</Phone>
     <Phone>480-968-8885</Phone>
     <Address NearstAirport="Sky Harbor">
@@ -13,7 +13,7 @@
     </Address>
   </Hotel>
   <Hotel Rating="4.0">
-    <Name>Marriott</Name>
+    <Name>Obsidian Basin Resort</Name>
     <Phone>602-123-4567</Phone>
     <Address NearstAirport="JFK">
       <Number>101</Number>
@@ -24,7 +24,7 @@
     </Address>
   </Hotel>
   <Hotel>
-    <Name>Hilton</Name>
+    <Name>Royal Mill Hotel</Name>
     <Phone>480-555-1234</Phone>
     <Phone>480-555-5678</Phone>
     <Address NearstAirport="JFK">
@@ -36,7 +36,7 @@
     </Address>
   </Hotel>
   <Hotel Rating="3.8">
-    <Name>Hyatt</Name>
+    <Name>Historic Dream Hotel</Name>
     <Phone>480-333-4444</Phone>
     <Address NearstAirport="Sky Harbor">
       <Number>303</Number>
@@ -47,7 +47,7 @@
     </Address>
   </Hotel>
   <Hotel Rating="4.6">
-    <Name>Sheraton</Name>
+    <Name>Ivory Shroud Hotel</Name>
     <Phone>602-222-3333</Phone>
     <Phone>602-222-4444</Phone>
     <Address NearstAirport="Sky Harbor">
@@ -59,7 +59,7 @@
     </Address>
   </Hotel>
   <Hotel Rating="3.9">
-    <Name>Holiday Inn</Name>
+    <Name>Northern Shield Motel</Name>
     <Phone>480-777-8888</Phone>
     <Address NearstAirport="Sky Harbor">
       <Number>505</Number>
@@ -70,7 +70,7 @@
     </Address>
   </Hotel>
   <Hotel Rating="4.7">
-    <Name>Ritz-Carlton</Name>
+    <Name>rophecy Resort and Spa</Name>
     <Phone>602-999-1111</Phone>
     <Phone>602-999-2222</Phone>
     <Address NearstAirport="Phoenix Sky Harbor">
@@ -82,7 +82,7 @@
     </Address>
   </Hotel>
   <Hotel Rating="4.3">
-    <Name>Four Seasons</Name>
+    <Name>Harborview Resort</Name>
     <Phone>480-888-0000</Phone>
     <Address NearstAirport="Phoenix Sky Harbor">
       <Number>707</Number>
@@ -93,7 +93,7 @@
     </Address>
   </Hotel>
   <Hotel Rating="3.7">
-    <Name>Accor</Name>
+    <Name>Diamond Resort</Name>
     <Phone>602-555-6666</Phone>
     <Address NearstAirport="Sky Harbor">
       <Number>808</Number>
@@ -104,7 +104,7 @@
     </Address>
   </Hotel>
   <Hotel Rating="4.1">
-    <Name>Wyndham</Name>
+    <Name>Relaxation Resort</Name>
     <Phone>480-111-2222</Phone>
     <Phone>480-333-4444</Phone>
     <Address NearstAirport="Phoenix Sky Harbor">
