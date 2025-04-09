@@ -42,6 +42,7 @@
       <City>Scottsdale</City>
       <State>AZ</State>
       <Zip>85251</Zip>
+    </Address>
   </Hotel>
   <Hotel rating="3.9">
     <Name>Sheraton</Name>
