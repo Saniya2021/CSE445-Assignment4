@@ -1,61 +1,118 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Hotels xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://saniya2021.github.io/CSE445-Assignment4/Hotels.xsd">
-  <Hotel Rating="4.5">
-    <Name>Grand Vista</Name>
-    <Phone>123-456-7890</Phone>
-    <Phone>234-567-8901</Phone>
-    <Address NearestAirport="Central Hub">
-      <Number>100</Number>
-      <Street>Maple Drive</Street>
-      <City>Springfield</City>
-      <State>IL</State>
-      <Zip>62704</Zip>
-    </Address>
-  </Hotel>
-  <Hotel Rating="3.8">
-    <Name>Ocean Breeze</Name>
-    <Phone>321-654-0987</Phone>
-    <Address NearestAirport="Seaside Terminal">
-      <Number>200</Number>
-      <Street>Bay Street</Street>
-      <City>Sunnyvale</City>
-      <State>CA</State>
-      <Zip>94086</Zip>
-    </Address>
-  </Hotel>
-  <Hotel Rating="4.0">
-    <Name>Mountain Retreat</Name>
+  <Hotel rating="4.2">
+    <Name>Aurora Lounge</Name>
     <Phone>555-123-4567</Phone>
     <Phone>555-234-5678</Phone>
-    <Address NearestAirport="Highland Air">
-      <Number>50</Number>
-      <Street>Pine Road</Street>
-      <City>Evergreen</City>
-      <State>CO</State>
-      <Zip>80435</Zip>
+    <Address NearstAirport="Skyport Alpha">
+      <Number>101</Number>
+      <Street>Crystal Way</Street>
+      <City>Luminara</City>
+      <State>CA</State>
+      <Zip>90210</Zip>
     </Address>
   </Hotel>
-  <Hotel Rating="4.9">
-    <Name>Skyline Inn</Name>
-    <Phone>777-888-9999</Phone>
-    <Address NearestAirport="Urban Transit">
-      <Number>150</Number>
-      <Street>Cedar Lane</Street>
-      <City>Midtown</City>
+  <Hotel>
+    <Name>Neon Retreat</Name>
+    <Phone>555-345-6789</Phone>
+    <Address NearstAirport="Gemini Air">
+      <Number>202</Number>
+      <Street>Emerald Lane</Street>
+      <City>Nova City</City>
+      <State>NV</State>
+      <Zip>89012</Zip>
+    </Address>
+  </Hotel>
+  <Hotel rating="4.5">
+    <Name>Eclipse Suites</Name>
+    <Phone>555-456-7890</Phone>
+    <Phone>555-567-8901</Phone>
+    <Address NearstAirport="Lunar Hub">
+      <Number>303</Number>
+      <Street>Solar Blvd</Street>
+      <City>Stellaris</City>
+      <State>TX</State>
+      <Zip>75001</Zip>
+    </Address>
+  </Hotel>
+  <Hotel>
+    <Name>Cosmos Inn</Name>
+    <Phone>555-678-9012</Phone>
+    <Address NearstAirport="Orbit Gate">
+      <Number>404</Number>
+      <Street>Meteor Ave</Street>
+      <City>Galaxy</City>
+      <State>FL</State>
+      <Zip>33101</Zip>
+    </Address>
+  </Hotel>
+  <Hotel>
+    <Name>Starlight Hotel</Name>
+    <Phone>555-789-0123</Phone>
+    <Phone>555-890-1234</Phone>
+    <Address NearstAirport="Nebula Terminal">
+      <Number>505</Number>
+      <Street>Comet Road</Street>
+      <City>Aurora</City>
       <State>NY</State>
       <Zip>10001</Zip>
     </Address>
   </Hotel>
-  <Hotel Rating="3.6">
-    <Name>Desert Oasis</Name>
-    <Phone>888-777-6666</Phone>
-    <Phone>888-777-5555</Phone>
-    <Address NearestAirport="Dune Field">
-      <Number>75</Number>
-      <Street>Sand Dune Blvd</Street>
-      <City>Mirage</City>
-      <State>NV</State>
-      <Zip>89044</Zip>
+  <Hotel rating="4.8">
+    <Name>Orbital Suites</Name>
+    <Phone>555-901-2345</Phone>
+    <Address NearstAirport="Celestial Dock">
+      <Number>606</Number>
+      <Street>Pulsar Blvd</Street>
+      <City>Orbiton</City>
+      <State>IL</State>
+      <Zip>60606</Zip>
+    </Address>
+  </Hotel>
+  <Hotel>
+    <Name>Galaxy Inn</Name>
+    <Phone>555-012-3456</Phone>
+    <Phone>555-123-9876</Phone>
+    <Address NearstAirport="Stellar Port">
+      <Number>707</Number>
+      <Street>Quasar Way</Street>
+      <City>Andromeda</City>
+      <State>AZ</State>
+      <Zip>85001</Zip>
+    </Address>
+  </Hotel>
+  <Hotel rating="4.3">
+    <Name>Solaris Hotel</Name>
+    <Phone>555-234-5678</Phone>
+    <Address NearstAirport="Helios Hub">
+      <Number>808</Number>
+      <Street>Radiant St</Street>
+      <City>Solaria</City>
+      <State>OR</State>
+      <Zip>97035</Zip>
+    </Address>
+  </Hotel>
+  <Hotel rating="4.1">
+    <Name>Comet Lodge</Name>
+    <Phone>555-345-6789</Phone>
+    <Address NearstAirport="Astro Terminal">
+      <Number>909</Number>
+      <Street>Orbit Circle</Street>
+      <City>Zenith</City>
+      <State>WA</State>
+      <Zip>98101</Zip>
+    </Address>
+  </Hotel>
+  <Hotel rating="3.8">
+    <Name>Celestial Palace</Name>
+    <Phone>555-456-7890</Phone>
+    <Phone>555-567-8902</Phone>
+    <Address NearstAirport="Cosmo Field">
+      <Number>1010</Number>
+      <Street>Infinity Loop</Street>
+      <City>Vortex</City>
+      <State>CO</State>
+      <Zip>80014</Zip>
     </Address>
   </Hotel>
 </Hotels>
