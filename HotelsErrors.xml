@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Hotel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://saniya2021.github.io/CSE445-Assignment4/Hotels.xsd">
-  <Hotel rating="4.2">
+  <Hotel Rating="4.2">
     <Name>Westin</Name>
     <Phone>800-937-8461</Phone>
     <Phone>480-968-8885</Phone>
@@ -12,7 +12,7 @@
       <Zip>85281</Zip>
     </Address>
   </Hotel>
-  <Hotel rating="4.0">
+  <Hotel Rating="4.0">
     <Name>Marriott</Name>
     <Phone>602-123-4567</Phone>
     <Address>
@@ -23,7 +23,7 @@
       <Zip>85004</Zip>
     </Address>
   </Hotel>
-  <Hotel rating="3.8">
+  <Hotel Rating="3.8">
     <Name>Hilton</Name>
     <Address NearstAirport="JFK">
       <Number>202</Number>
@@ -33,7 +33,7 @@
       <Zip>85001</Zip>
     </Address>
   </Hotel>
-  <Hotel rating="4.6">
+  <Hotel Rating="4.6">
     <Name>Hyatt</Name>
     <Phone>480-333-4444</Phone>
     <Address NearstAirport="Sky Harbor">
@@ -44,7 +44,7 @@
       <Zip>85251</Zip>
     </Address>
   </Hotel>
-  <Hotel rating="3.9">
+  <Hotel Rating="3.9">
     <Name>Sheraton</Name>
     <Name>Sheraton Deluxe</Name>
     <Phone>602-222-3333</Phone>
@@ -57,7 +57,7 @@
       <Zip>85016</Zip>
     </Address>
   </Hotel>
-  <Hotel rating="4.7">
+  <Hotel Rating="4.7">
     <Name>Holiday Inn</Name>
     <Phone>480-777-8888</Phone>
     <Address NearstAirport="Sky Harbor">
@@ -68,7 +68,7 @@
       <Zip>85282</Zip>
     </Address>
   </Hotel>
-  <Hotel rating="4.3">
+  <Hotel Rating="4.3">
     <Name>Ritz-Carlton</Name>
     <Phone>602-999-1111</Phone>
     <Phone>602-999-2222</Phone>
@@ -80,7 +80,7 @@
       <Zip>85021</Zip>
     </Address>
   </Hotel>
-  <Hotel rating="3.7">
+  <Hotel Rating="3.7">
     <Name>Four Seasons</Name>
     <Phone>480-888-0000</Phone>
     <Address NearstAirport="Phoenix Sky Harbor">
@@ -91,7 +91,7 @@
       <Zip>85022</Zip>
     </Address>
   </Hotel>
-  <Hotel rating="4.1">
+  <Hotel Rating="4.1">
     <Name>Accor</Name>
     <Phone>602-555-6666</Phone>
     <Address NearstAirport="Sky Harbor">
@@ -102,7 +102,7 @@
       <Zip>85283</Zip>
     </Address>
   </Hotel>
-  <Hotel rating="4.5">
+  <Hotel Rating="4.5">
     <Name>Wyndham</Name>
     <Phone>480-111-2222</Phone>
     <Phone>480-333-4444</Phone>
